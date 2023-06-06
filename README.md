@@ -1,10 +1,6 @@
-# Useful Links
+# Dynamic Pricing
 
-- [Square Python SDK](https://developer.squareup.com/docs/sdks/python)
-- [Web Payments SDK Overview](https://developer.squareup.com/docs/web-payments/overview)
-- [Web Payments SDK Reference](https://developer.squareup.com/reference/sdks/web/payments)
-- [Payments API Overview](https://developer.squareup.com/docs/payments)
-- [Payments API Reference](https://developer.squareup.com/reference/square/payments-api)
+This is part of [Square Developer Hackhaton](https://square2023.devpost.com/).
 
 # Payment processing example: Python
 
