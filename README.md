@@ -1,10 +1,11 @@
-# Dynamic Pricing
+# Awesome Dynamic Pricing
 
 This is part of [Square Developer Hackhaton](https://square2023.devpost.com/).
 
-# Payment processing example: Python
+# Dynamic Pricing
 
-This sample demonstrates processing card payments with Square Connect API, using the Square Connect Python client library.
+This is a pricing strategy platform that enable seller to evaluate and find their optimal pricing of each product.\
+What's make it different? I employed the combination of [BG/NBD](https://lifetimes.readthedocs.io/en/latest/Quickstart.html) model and [Thompson sampling](https://towardsdatascience.com/thompson-sampling-fc28817eacb8). Thus, sellers can can decide which price to set given their budget constraints. 
 
 ## Requirements
 
@@ -14,7 +15,9 @@ Make sure you have Python >= 3.4
 
 ### Install the Python client library
 
-1. Make sure you have Python >= 3.4 installed from [python.org](https://www.python.org/).
+1. Make sure you have Python >= 3.8 installed from [python.org](https://www.python.org/).
+
+2. Clone this repository. 
 
 2. Run the following command to install `squareup` package and other dependencies:
 
